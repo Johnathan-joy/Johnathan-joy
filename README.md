@@ -74,8 +74,8 @@ A **Python-based contact management system** to add, remove, search, and organiz
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnathanJoy&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=JohnathanJoy&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Johnathan-Joy&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Johnathan-Joy&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -90,11 +90,6 @@ A **Python-based contact management system** to add, remove, search, and organiz
 
 ---
 
-### ✨ Fun Facts  
-- 🧩 I enjoy solving logic puzzles and debugging tricky code  
-- 🎵 I code best with music on  
-- 🌙 Late-night coding sessions are my favorite  
+<p align="center">⭐️ Thanks for visiting my profile! Let’s learn and build something amazing together. 🚀</p>
 
 ---
-
-<p align="center">⭐️ Thanks for visiting my profile! Let’s learn and build something amazing together. 🚀</p>
