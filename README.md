@@ -36,6 +36,8 @@ Developed using **Java Swing** to handle insurance policy creation, payments, an
 📖 **Contact Book Viewer (Python)** – *College Project*  
 A **Python-based contact management system** to add, remove, search, and organize contacts with favorite and sorting features.  
 
+🧠 **MindTrack - Mental Health Journal Application** - *College Project*
+A **Full-stack MERN application** for mental health journaling with mood tracking and analytics.
 ---
 
 ### 🧠 What I'm Learning
@@ -43,7 +45,7 @@ A **Python-based contact management system** to add, remove, search, and organiz
 |------|--------|
 | 💻 Programming | Python, Java, C++ |
 | 🌐 Web Development | HTML, JavaScript |
-| ⚙️ Databases | SQL |
+| ⚙️ Databases | SQL | MongoDB |
 | 🧰 Tools | Git, VS Code, Figma |
 
 ---
